@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31393244981",
+    "firebase_url": "https://kuis-baru.firebaseio.com",
+    "project_id": "kuis-baru",
+    "storage_bucket": "kuis-baru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31393244981:android:d4bfafdd4bc962b4754e7c",
+        "android_client_info": {
+          "package_name": "com.example.kuisbaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31393244981-n2v5pgfl3g2k83q9dtsgov015kuuro8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kuisbaru",
+            "certificate_hash": "4387c69dafff037ec0f55ba645baacb65ff0e369"
+          }
+        },
+        {
+          "client_id": "31393244981-4uccskcn9sggodblu2akpqlikveqppu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB33ORNDp5Q_Tsm-Pm51c8Yph-FQR02TPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31393244981-4uccskcn9sggodblu2akpqlikveqppu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
